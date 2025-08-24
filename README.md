@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🏆 Credits
 
-Developed with fourmetrsquared❤️ using the pyTelegramBotAPI library.
+Developed with love❤️ using the pyTelegramBotAPI library.
