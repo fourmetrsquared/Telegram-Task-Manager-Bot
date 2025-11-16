@@ -20,7 +20,7 @@ A sophisticated Telegram bot for task management built with Python and the pyTel
 1. Clone the repository:
   ```bash
   git clone https://github.com/fourmetrsquared/Telegram-Task-Manager-Bot
-  cd telegram-task-bot
+  cd Telegram-Task-Manager-Bot
   ```
 2. Create a virtual environment:
   ```bash
